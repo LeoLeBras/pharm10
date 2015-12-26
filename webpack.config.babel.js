@@ -32,7 +32,6 @@ export default {
             'src/assets',
             'src/assets/stylesheets/base',
             'src/scripts',
-            'src/scripts/views',
             'src/scripts/containers'
         ]
     },
